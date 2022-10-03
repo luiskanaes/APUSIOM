@@ -1,0 +1,453 @@
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\UserCode\obj\Debug\UserCode.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\UserCode.dll
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\UserCode.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\obj\Debug\UserCode.dll
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\UserCode\obj\Debug\UserCode.pdb
+C:\Users\lcanales.SSK\Desktop\SolSystem\UserCode\bin\Debug\UserCode.dll
+C:\Users\lcanales.SSK\Desktop\SolSystem\UserCode\bin\Debug\UserCode.pdb
+C:\Users\lcanales.SSK\Desktop\SolSystem\UserCode\bin\Debug\BusinessEntity.dll
+C:\Users\lcanales.SSK\Desktop\SolSystem\UserCode\bin\Debug\BusinessEntity.pdb
+C:\Users\lcanales.SSK\Desktop\SolSystem\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+C:\Users\lcanales.SSK\Desktop\SolSystem\UserCode\obj\Debug\UserCode.dll
+C:\Users\lcanales.SSK\Desktop\SolSystem\UserCode\obj\Debug\UserCode.pdb
+C:\SolSystem_tareo\UserCode\bin\Debug\UserCode.dll
+C:\SolSystem_tareo\UserCode\bin\Debug\UserCode.pdb
+C:\SolSystem_tareo\UserCode\bin\Debug\BusinessEntity.dll
+C:\SolSystem_tareo\UserCode\bin\Debug\BusinessEntity.pdb
+C:\SolSystem_tareo\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+C:\SolSystem_tareo\UserCode\obj\Debug\UserCode.dll
+C:\SolSystem_tareo\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\UserCode\obj\Debug\UserCode.pdb
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\UserCode.dll
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\UserCode.pdb
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\BusinessEntity.dll
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\BusinessEntity.pdb
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\obj\Debug\UserCode.dll
+D:\CARLOS\ICSK\TAREO\20200304\UserCode\obj\Debug\UserCode.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\UserCode.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\UserCode.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\obj\Debug\UserCode.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\UserCode\obj\Debug\UserCode.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\UserCode.dll
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\UserCode.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\BusinessEntity.dll
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\BusinessEntity.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\obj\Debug\UserCode.csprojResolveAssemblyReference.cache
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\obj\Debug\UserCode.dll
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\UserCode\obj\Debug\UserCode.pdb
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\UserCode.dll
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\UserCode.pdb
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\BusinessEntity.dll
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\BusinessEntity.pdb
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\obj\Debug\UserCode.csproj.AssemblyReference.cache
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\obj\Debug\UserCode.csproj.CoreCompileInputs.cache
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\obj\Debug\UserCode.csproj.CopyComplete
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\obj\Debug\UserCode.dll
+D:\PERSONAL\ER\CODIGO\20200304\UserCode\obj\Debug\UserCode.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\UserCode.dll
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\UserCode.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\BusinessEntity.dll
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\BusinessEntity.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\microsoft.practices.enterpriselibrary.data.xml
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\obj\Debug\UserCode.csproj.AssemblyReference.cache
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\obj\Debug\UserCode.csproj.CoreCompileInputs.cache
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\obj\Debug\UserCode.csproj.CopyComplete
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\obj\Debug\UserCode.dll
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\UserCode\obj\Debug\UserCode.pdb

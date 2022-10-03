@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://10.10.233.40/WCF_TAREO/Tareo.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/BusinessEntity" />
+  <xs:element name="ProbarConexion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="as_error" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ProbarConexionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ProbarConexionResult" type="xs:boolean" />
+        <xs:element minOccurs="0" name="as_error" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ListarPersonalGestor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="IDE_EMPRESA" type="xs:int" />
+        <xs:element minOccurs="0" name="CENTRO_COSTO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ListarPersonalGestorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/BusinessEntity" minOccurs="0" name="ListarPersonalGestorResult" nillable="true" type="q1:ArrayOfBE_PERSONAL_GESTOR" />
+        <xs:element minOccurs="0" name="msgerror" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,130 @@
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\DEMO\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\DEMO\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 2\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 3\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 4\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 5\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 6\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 7\SolSystem\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 9\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 10\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 11\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 12\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\Users\lcanales.SSK\Desktop\VERSION 15\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 15_2\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 16\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 18\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\lcanales.SSK\Desktop\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\Users\lcanales.SSK\Desktop\SolSystem\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\Users\lcanales.SSK\Desktop\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\lcanales.SSK\Desktop\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\Users\lcanales.SSK\Desktop\SolSystem\BusinessEntity\obj\Debug\BusinessEntity.pdb
+C:\SolSystem_tareo\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\SolSystem_tareo\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\SolSystem_tareo\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+C:\SolSystem_tareo\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\SolSystem_tareo\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\TAREO\VERSION 19\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\TAREO\VERSION 19\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\TAREO\VERSION 19\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\CARLOS\ICSK\TAREO\20200304\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\CARLOS\ICSK\TAREO\20200304\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\CARLOS\ICSK\TAREO\20200304\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\CARLOS\ICSK\TAREO\20200304\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\CARLOS\ICSK\TAREO\20200304\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\SISTEMAS SSK\ICSK\TAREO\20200304\BusinessEntity\obj\Debug\BusinessEntity.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\BusinessEntity\obj\Debug\BusinessEntity.csprojResolveAssemblyReference.cache
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\LUIS\Nuevo vol\SSK\DESARROLLO\PROYECTO\CGO\REGISTRO DE MARCAS SPOOLS V2\20200304\20200304\BusinessEntity\obj\Debug\BusinessEntity.pdb
+D:\PERSONAL\ER\CODIGO\20200304\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\PERSONAL\ER\CODIGO\20200304\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\PERSONAL\ER\CODIGO\20200304\BusinessEntity\obj\Debug\BusinessEntity.csproj.AssemblyReference.cache
+D:\PERSONAL\ER\CODIGO\20200304\BusinessEntity\obj\Debug\BusinessEntity.csproj.CoreCompileInputs.cache
+D:\PERSONAL\ER\CODIGO\20200304\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\PERSONAL\ER\CODIGO\20200304\BusinessEntity\obj\Debug\BusinessEntity.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\BusinessEntity\bin\Debug\BusinessEntity.dll
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\BusinessEntity\bin\Debug\BusinessEntity.pdb
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\BusinessEntity\obj\Debug\BusinessEntity.csproj.AssemblyReference.cache
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\BusinessEntity\obj\Debug\BusinessEntity.csproj.CoreCompileInputs.cache
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\BusinessEntity\obj\Debug\BusinessEntity.dll
+C:\Luis Personal\SIOM\ENTREGA 1ERA\20200304\BusinessEntity\obj\Debug\BusinessEntity.pdb

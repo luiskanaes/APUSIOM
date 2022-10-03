@@ -1,0 +1,85 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Collections;
+using BusinessEntity;
+using UserCode;
+using System.Data;
+using System.Data.SqlClient;
+using DataAccess.Conexion;
+using System.Configuration;
+
+
+
+namespace DataAccess
+{
+    public class DA_TAREO_EMPLEADO
+    {
+        SqlConnection cn = new SqlConnection(ConfigurationManager.ConnectionStrings["Conexion"].ToString());
+        Util oUtilitarios = new Util();
+
+        public DataTable SP_CONSULTAR_EMPLEADOS(string IDE_EMPRESA, string MES, string anio, string UBICACION)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.SP_CONSULTAR_EMPLEADOS", IDE_EMPRESA, MES, anio, UBICACION);
+
+        }
+
+        public DataTable SP_EXPORTAR_TAREO_EMP(string IDE_EMPRESA, string MES, string anio, string UBICACION)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.SP_EXPORTAR_TAREO_EMP", IDE_EMPRESA, MES, anio, UBICACION);
+
+        }
+
+
+        public DataTable SP_IMPORTAR_EMPLEADOS(string IDE_EMPRESA, string MES, string anio, string UBICACION)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.SP_IMPORTAR_EMPLEADOS", IDE_EMPRESA, MES, anio, UBICACION);
+
+        }
+
+        public DataTable SP_CERRAR_TAREO_EMP(string IDE_EMPRESA, string MES, string anio, string UBICACION)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.SP_CERRAR_TAREO_EMP", IDE_EMPRESA, MES, anio, UBICACION);
+
+        }
+
+
+        public DataTable SP_ACTUALIZAR_TB_EMP(string IDE_EMPRESA, string MES, string anio, string UBICACION)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.SP_ACTUALIZAR_TB_EMP", IDE_EMPRESA, MES, anio, UBICACION);
+
+        }
+
+        public DataTable SP_CONSULTAR_UBICACIONES(string ID_USUARIO)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.SP_CONSULTAR_UBICACIONES", ID_USUARIO);
+
+        }
+
+        public DataTable SP_CONSULTAR_NOMBRE(string dni)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.SP_CONSULTAR_NOMBRE", dni);
+
+        }
+
+        public DataTable SP_VERIFICAR_ESTADO_TAREOEMP(string IDE_EMPRESA, string MES, string anio, string UBICACION)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.SP_VERIFICAR_ESTADO_TAREOEMP", IDE_EMPRESA, MES, anio, UBICACION);
+
+        }
+
+        public DataTable SP_ACTUALIZAR_UBICACION(string dni, string MES, string anio, string UBICACION)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.SP_ACTUALIZAR_UBICACION", dni, MES, anio, UBICACION);
+
+        }
+        public DataTable uspWCF_SELECT_TRABAJADOR_SISPLAN(string COD_SUCURSAL, string DNI)
+        {
+            return oUtilitarios.EjecutaDatatable("dbo.uspWCF_SELECT_TRABAJADOR_SISPLAN", COD_SUCURSAL, DNI);
+
+        }
+
+    }
+}

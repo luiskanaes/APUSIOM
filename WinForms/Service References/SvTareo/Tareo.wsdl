@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Tareo" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://ssk-appdev/WCF/Tareo.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://ssk-appdev/WCF/Tareo.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://ssk-appdev/WCF/Tareo.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/BusinessEntity" />
+      <xsd:import schemaLocation="http://ssk-appdev/WCF/Tareo.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ITareo_DoWork_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoWork" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_DoWork_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoWorkResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_ProbarConexionGestor_InputMessage">
+    <wsdl:part name="parameters" element="tns:ProbarConexionGestor" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_ProbarConexionGestor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ProbarConexionGestorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_ProbarConexionTareo_InputMessage">
+    <wsdl:part name="parameters" element="tns:ProbarConexionTareo" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_ProbarConexionTareo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ProbarConexionTareoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_ListarPersonalGestor_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarPersonalGestor" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_ListarPersonalGestor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarPersonalGestorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_PersonalGestor_InputMessage">
+    <wsdl:part name="parameters" element="tns:Get_PersonalGestor" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_PersonalGestor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Get_PersonalGestorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_PersonalGestorDNI_InputMessage">
+    <wsdl:part name="parameters" element="tns:Get_PersonalGestorDNI" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_PersonalGestorDNI_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Get_PersonalGestorDNIResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_PersonalGestorSKEX_InputMessage">
+    <wsdl:part name="parameters" element="tns:Get_PersonalGestorSKEX" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_PersonalGestorSKEX_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Get_PersonalGestorSKEXResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_PersonalGestorDNI_SKEX_InputMessage">
+    <wsdl:part name="parameters" element="tns:Get_PersonalGestorDNI_SKEX" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_PersonalGestorDNI_SKEX_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Get_PersonalGestorDNI_SKEXResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Insertar_ASIGNACION_TAREO_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertar_ASIGNACION_TAREO" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Insertar_ASIGNACION_TAREO_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Insertar_ASIGNACION_TAREOResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Insertar_TAREO_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertar_TAREO" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Insertar_TAREO_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Insertar_TAREOResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Insertar_ASISTENCIA_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertar_ASISTENCIA" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Insertar_ASISTENCIA_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Insertar_ASISTENCIAResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_UploadFile_InputMessage">
+    <wsdl:part name="parameters" element="tns:UploadFile" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_UploadFile_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UploadFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_Estado_PeridoTareo_SSK_InputMessage">
+    <wsdl:part name="parameters" element="tns:Get_Estado_PeridoTareo_SSK" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_Estado_PeridoTareo_SSK_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Get_Estado_PeridoTareo_SSKResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_Estado_PeridoTareo_SKEx_InputMessage">
+    <wsdl:part name="parameters" element="tns:Get_Estado_PeridoTareo_SKEx" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_Get_Estado_PeridoTareo_SKEx_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Get_Estado_PeridoTareo_SKExResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_LIMPIAR_MIGRACION_GESTOR_InputMessage">
+    <wsdl:part name="parameters" element="tns:LIMPIAR_MIGRACION_GESTOR" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_LIMPIAR_MIGRACION_GESTOR_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LIMPIAR_MIGRACION_GESTORResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_TAREO_LIMPIAR_MIGRACION_InputMessage">
+    <wsdl:part name="parameters" element="tns:TAREO_LIMPIAR_MIGRACION" />
+  </wsdl:message>
+  <wsdl:message name="ITareo_TAREO_LIMPIAR_MIGRACION_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TAREO_LIMPIAR_MIGRACIONResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ITareo">
+    <wsdl:operation name="DoWork">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/DoWork" message="tns:ITareo_DoWork_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/DoWorkResponse" message="tns:ITareo_DoWork_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ProbarConexionGestor">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/ProbarConexionGestor" message="tns:ITareo_ProbarConexionGestor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/ProbarConexionGestorResponse" message="tns:ITareo_ProbarConexionGestor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ProbarConexionTareo">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/ProbarConexionTareo" message="tns:ITareo_ProbarConexionTareo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/ProbarConexionTareoResponse" message="tns:ITareo_ProbarConexionTareo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarPersonalGestor">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/ListarPersonalGestor" message="tns:ITareo_ListarPersonalGestor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/ListarPersonalGestorResponse" message="tns:ITareo_ListarPersonalGestor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Get_PersonalGestor">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/Get_PersonalGestor" message="tns:ITareo_Get_PersonalGestor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/Get_PersonalGestorResponse" message="tns:ITareo_Get_PersonalGestor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Get_PersonalGestorDNI">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/Get_PersonalGestorDNI" message="tns:ITareo_Get_PersonalGestorDNI_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/Get_PersonalGestorDNIResponse" message="tns:ITareo_Get_PersonalGestorDNI_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Get_PersonalGestorSKEX">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/Get_PersonalGestorSKEX" message="tns:ITareo_Get_PersonalGestorSKEX_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/Get_PersonalGestorSKEXResponse" message="tns:ITareo_Get_PersonalGestorSKEX_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Get_PersonalGestorDNI_SKEX">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/Get_PersonalGestorDNI_SKEX" message="tns:ITareo_Get_PersonalGestorDNI_SKEX_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/Get_PersonalGestorDNI_SKEXResponse" message="tns:ITareo_Get_PersonalGestorDNI_SKEX_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertar_ASIGNACION_TAREO">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/Insertar_ASIGNACION_TAREO" message="tns:ITareo_Insertar_ASIGNACION_TAREO_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/Insertar_ASIGNACION_TAREOResponse" message="tns:ITareo_Insertar_ASIGNACION_TAREO_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertar_TAREO">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/Insertar_TAREO" message="tns:ITareo_Insertar_TAREO_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/Insertar_TAREOResponse" message="tns:ITareo_Insertar_TAREO_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insertar_ASISTENCIA">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/Insertar_ASISTENCIA" message="tns:ITareo_Insertar_ASISTENCIA_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/Insertar_ASISTENCIAResponse" message="tns:ITareo_Insertar_ASISTENCIA_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadFile">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/UploadFile" message="tns:ITareo_UploadFile_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/UploadFileResponse" message="tns:ITareo_UploadFile_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Get_Estado_PeridoTareo_SSK">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/Get_Estado_PeridoTareo_SSK" message="tns:ITareo_Get_Estado_PeridoTareo_SSK_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/Get_Estado_PeridoTareo_SSKResponse" message="tns:ITareo_Get_Estado_PeridoTareo_SSK_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Get_Estado_PeridoTareo_SKEx">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/Get_Estado_PeridoTareo_SKEx" message="tns:ITareo_Get_Estado_PeridoTareo_SKEx_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/Get_Estado_PeridoTareo_SKExResponse" message="tns:ITareo_Get_Estado_PeridoTareo_SKEx_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LIMPIAR_MIGRACION_GESTOR">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/LIMPIAR_MIGRACION_GESTOR" message="tns:ITareo_LIMPIAR_MIGRACION_GESTOR_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/LIMPIAR_MIGRACION_GESTORResponse" message="tns:ITareo_LIMPIAR_MIGRACION_GESTOR_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TAREO_LIMPIAR_MIGRACION">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITareo/TAREO_LIMPIAR_MIGRACION" message="tns:ITareo_TAREO_LIMPIAR_MIGRACION_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITareo/TAREO_LIMPIAR_MIGRACIONResponse" message="tns:ITareo_TAREO_LIMPIAR_MIGRACION_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ITareo" type="tns:ITareo">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="DoWork">
+      <soap:operation soapAction="http://tempuri.org/ITareo/DoWork" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProbarConexionGestor">
+      <soap:operation soapAction="http://tempuri.org/ITareo/ProbarConexionGestor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProbarConexionTareo">
+      <soap:operation soapAction="http://tempuri.org/ITareo/ProbarConexionTareo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarPersonalGestor">
+      <soap:operation soapAction="http://tempuri.org/ITareo/ListarPersonalGestor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Get_PersonalGestor">
+      <soap:operation soapAction="http://tempuri.org/ITareo/Get_PersonalGestor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Get_PersonalGestorDNI">
+      <soap:operation soapAction="http://tempuri.org/ITareo/Get_PersonalGestorDNI" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Get_PersonalGestorSKEX">
+      <soap:operation soapAction="http://tempuri.org/ITareo/Get_PersonalGestorSKEX" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Get_PersonalGestorDNI_SKEX">
+      <soap:operation soapAction="http://tempuri.org/ITareo/Get_PersonalGestorDNI_SKEX" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertar_ASIGNACION_TAREO">
+      <soap:operation soapAction="http://tempuri.org/ITareo/Insertar_ASIGNACION_TAREO" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertar_TAREO">
+      <soap:operation soapAction="http://tempuri.org/ITareo/Insertar_TAREO" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insertar_ASISTENCIA">
+      <soap:operation soapAction="http://tempuri.org/ITareo/Insertar_ASISTENCIA" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadFile">
+      <soap:operation soapAction="http://tempuri.org/ITareo/UploadFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Get_Estado_PeridoTareo_SSK">
+      <soap:operation soapAction="http://tempuri.org/ITareo/Get_Estado_PeridoTareo_SSK" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Get_Estado_PeridoTareo_SKEx">
+      <soap:operation soapAction="http://tempuri.org/ITareo/Get_Estado_PeridoTareo_SKEx" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LIMPIAR_MIGRACION_GESTOR">
+      <soap:operation soapAction="http://tempuri.org/ITareo/LIMPIAR_MIGRACION_GESTOR" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TAREO_LIMPIAR_MIGRACION">
+      <soap:operation soapAction="http://tempuri.org/ITareo/TAREO_LIMPIAR_MIGRACION" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Tareo">
+    <wsdl:port name="BasicHttpBinding_ITareo" binding="tns:BasicHttpBinding_ITareo">
+      <soap:address location="http://ssk-appdev/WCF/Tareo.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

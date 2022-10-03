@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="676a129d-7bbd-4acb-8b83-b4ace3506ca7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://10.10.233.40/WCF_TAREO/tareo.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Tareo.wsdl" MetadataType="Wsdl" ID="b48af161-65d7-48b7-bb1c-7792cb77990f" SourceId="1" SourceUrl="http://10.10.233.40/WCF_TAREO/Tareo.svc?wsdl" />
+    <MetadataFile FileName="Tareo.xsd" MetadataType="Schema" ID="a6e61382-45d5-46c1-8e3a-3420d366795b" SourceId="1" SourceUrl="http://10.10.233.40/WCF_TAREO/Tareo.svc?xsd=xsd0" />
+    <MetadataFile FileName="Tareo.disco" MetadataType="Disco" ID="e2b34fe4-7074-4442-a2ee-35b2e29e8d3b" SourceId="1" SourceUrl="http://10.10.233.40/WCF_TAREO/Tareo.svc?disco" />
+    <MetadataFile FileName="Tareo1.xsd" MetadataType="Schema" ID="a2f06599-fa7b-4a35-8efd-2677af4c8532" SourceId="1" SourceUrl="http://10.10.233.40/WCF_TAREO/Tareo.svc?xsd=xsd1" />
+    <MetadataFile FileName="Tareo2.xsd" MetadataType="Schema" ID="0f654984-67c2-4b78-9c73-fcf9bf926e8b" SourceId="1" SourceUrl="http://10.10.233.40/WCF_TAREO/Tareo.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

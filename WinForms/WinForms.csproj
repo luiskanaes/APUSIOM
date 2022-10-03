@@ -1,0 +1,1209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D62C222F-332A-4973-9B4F-E335C28527C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WinForms</RootNamespace>
+    <AssemblyName>WinForms</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Calendar.NET, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DLL\Calendar.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.4.369, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <HintPath>..\packages\ICSharpCode.SharpZipLib.dll.0.85.4.369\lib\net20\ICSharpCode.SharpZipLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="microsoft.practices.enterpriselibrary.common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DLL\microsoft.practices.enterpriselibrary.common.dll</HintPath>
+    </Reference>
+    <Reference Include="microsoft.practices.enterpriselibrary.data, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DLL\microsoft.practices.enterpriselibrary.data.dll</HintPath>
+    </Reference>
+    <Reference Include="microsoft.practices.enterpriselibrary.logging, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DLL\microsoft.practices.enterpriselibrary.logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.2015.Runtime.12.0.2.2402\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.2015.Runtime.12.0.2.2402\lib\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.2015.Runtime.12.0.2.2402\lib\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.ZipFile, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.ZipFile.4.3.0\lib\netstandard1.3\System.IO.Compression.ZipFile.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ThoughtWorks.QRCode">
+      <HintPath>..\DLL\ThoughtWorks.QRCode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet\DsLogistica.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsLogistica.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DsRRHH.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsRRHH.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DsSISPLAN.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsSISPLAN.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DsTareo.cs">
+      <DependentUpon>DsTareo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DsTareo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsTareo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DsTareoReporte.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsTareoReporte.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fotocheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fotocheck.Designer.cs">
+      <DependentUpon>Fotocheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FotoCheckId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FotoCheckId.Designer.cs">
+      <DependentUpon>FotoCheckId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FotoReportId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FotoReportId.Designer.cs">
+      <DependentUpon>FotoReportId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FotoReportVarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FotoReportVarios.Designer.cs">
+      <DependentUpon>FotoReportVarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmActualizarJunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActualizarJunta.Designer.cs">
+      <DependentUpon>frmActualizarJunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmActualizarTestPack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActualizarTestPack.designer.cs">
+      <DependentUpon>frmActualizarTestPack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsignarNuevoResponsable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsignarNuevoResponsable.Designer.cs">
+      <DependentUpon>frmAsignarNuevoResponsable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsignarResponsables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsignarResponsables.Designer.cs">
+      <DependentUpon>frmAsignarResponsables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAvanceConsolidado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAvanceConsolidado.Designer.cs">
+      <DependentUpon>frmAvanceConsolidado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCambiarResponsables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCambiarResponsables.Designer.cs">
+      <DependentUpon>frmCambiarResponsables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargaMasivaColumnas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargaMasivaColumnas.designer.cs">
+      <DependentUpon>frmCargaMasivaColumnas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClave.Designer.cs">
+      <DependentUpon>frmClave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControlTareoDigitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControlTareoDigitacion.Designer.cs">
+      <DependentUpon>frmControlTareoDigitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCuadrillaAsignar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCuadrillaAsignar.Designer.cs">
+      <DependentUpon>frmCuadrillaAsignar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCuadrillaObrero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCuadrillaObrero.Designer.cs">
+      <DependentUpon>frmCuadrillaObrero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCuadrillaVarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCuadrillaVarios.Designer.cs">
+      <DependentUpon>frmCuadrillaVarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDigitacionPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDigitacionPopup.Designer.cs">
+      <DependentUpon>frmDigitacionPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDigitacionTareo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDigitacionTareo.Designer.cs">
+      <DependentUpon>frmDigitacionTareo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFeriados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFeriados.Designer.cs">
+      <DependentUpon>frmFeriados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHHDiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHHDiario.Designer.cs">
+      <DependentUpon>frmHHDiario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListaCuentasControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListaCuentasControl.Designer.cs">
+      <DependentUpon>frmListaCuentasControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsignacionPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsignacionPersonal.Designer.cs">
+      <DependentUpon>frmAsignacionPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsociarPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsociarPersonal.Designer.cs">
+      <DependentUpon>frmAsociarPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAvances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAvances.Designer.cs">
+      <DependentUpon>frmAvances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAvancesObrero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAvancesObrero.Designer.cs">
+      <DependentUpon>frmAvancesObrero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarPersona.Designer.cs">
+      <DependentUpon>frmBuscarPersona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalendario.Designer.cs">
+      <DependentUpon>frmCalendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControlTareo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControlTareo.Designer.cs">
+      <DependentUpon>frmControlTareo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControlTareoReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControlTareoReporte.Designer.cs">
+      <DependentUpon>frmControlTareoReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControlTareoTodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControlTareoTodo.Designer.cs">
+      <DependentUpon>frmControlTareoTodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCronograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCronograma.Designer.cs">
+      <DependentUpon>frmCronograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCuadrilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCuadrilla.Designer.cs">
+      <DependentUpon>frmCuadrilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiasTrabajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDiasTrabajo.Designer.cs">
+      <DependentUpon>frmDiasTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDisciplinaEstructura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDisciplinaEstructura.Designer.cs">
+      <DependentUpon>frmDisciplinaEstructura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEfecto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEfecto.Designer.cs">
+      <DependentUpon>frmEfecto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstadoDiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstadoDiario.Designer.cs">
+      <DependentUpon>FrmEstadoDiario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstructuraConsumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstructuraConsumo.Designer.cs">
+      <DependentUpon>frmEstructuraConsumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcesoHoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcesoHoras.Designer.cs">
+      <DependentUpon>frmExcesoHoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIndicadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIndicadores.Designer.cs">
+      <DependentUpon>frmIndicadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLiberarResponsable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLiberarResponsable.Designer.cs">
+      <DependentUpon>frmLiberarResponsable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManPower.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManPower.Designer.cs">
+      <DependentUpon>frmManPower.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManPowerCuadrilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManPowerCuadrilla.Designer.cs">
+      <DependentUpon>frmManPowerCuadrilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManPowerEspecialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManPowerEspecialidad.Designer.cs">
+      <DependentUpon>frmManPowerEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMigracionTareo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMigracionTareo.Designer.cs">
+      <DependentUpon>frmMigracionTareo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarDocumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarDocumentos.designer.cs">
+      <DependentUpon>frmMostrarDocumentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonalSinTareo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonalSinTareo.Designer.cs">
+      <DependentUpon>frmPersonalSinTareo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProcesarTareo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProcesarTareo.Designer.cs">
+      <DependentUpon>frmProcesarTareo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProgramacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProgramacion.Designer.cs">
+      <DependentUpon>frmProgramacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroDatosSoldadura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistroDatosSoldadura.designer.cs">
+      <DependentUpon>frmRegistroDatosSoldadura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroEnsayos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistroEnsayos.designer.cs">
+      <DependentUpon>frmRegistroEnsayos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroJuntasSoldadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistroJuntasSoldadas.designer.cs">
+      <DependentUpon>frmRegistroJuntasSoldadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroNuevaJunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistroNuevaJunta.designer.cs">
+      <DependentUpon>frmRegistroNuevaJunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReintegroMOD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReintegroMOD.Designer.cs">
+      <DependentUpon>frmReintegroMOD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteBaseEnsayosPendientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteBaseEnsayosPendientes.designer.cs">
+      <DependentUpon>frmReporteBaseEnsayosPendientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteEnsayosPendientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteEnsayosPendientes.designer.cs">
+      <DependentUpon>frmReporteEnsayosPendientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteFormatoTRPruebasHidraulicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteFormatoTRPruebasHidraulicas.designer.cs">
+      <DependentUpon>frmReporteFormatoTRPruebasHidraulicas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteIV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteIV.designer.cs">
+      <DependentUpon>frmReporteIV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportePaquetePruebas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportePaquetePruebas.designer.cs">
+      <DependentUpon>frmReportePaquetePruebas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportesGenerador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportesGenerador.designer.cs">
+      <DependentUpon>frmReportesGenerador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteSoldaduras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteSoldaduras.designer.cs">
+      <DependentUpon>frmReporteSoldaduras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTareas.Designer.cs">
+      <DependentUpon>frmTareas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTareoDiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTareoDiario.Designer.cs">
+      <DependentUpon>frmTareoDiario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTareoSemanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTareoSemanal.Designer.cs">
+      <DependentUpon>frmTareoSemanal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmValidarJuntasNuevas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmValidarJuntasNuevas.designer.cs">
+      <DependentUpon>frmValidarJuntasNuevas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngenieroAvance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngenieroAvance.Designer.cs">
+      <DependentUpon>IngenieroAvance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logistica\AgregarPEP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logistica\AgregarPEP.Designer.cs">
+      <DependentUpon>AgregarPEP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logistica\RptSolped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logistica\RptSolped.Designer.cs">
+      <DependentUpon>RptSolped.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logistica\Solped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logistica\Solped.Designer.cs">
+      <DependentUpon>Solped.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaestroPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaestroPersonal.Designer.cs">
+      <DependentUpon>MaestroPersonal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal.Designer.cs">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProyectosRegistros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProyectosRegistros.Designer.cs">
+      <DependentUpon>ProyectosRegistros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptControlHH_Indicador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RptControlHH_Indicador.Designer.cs">
+      <DependentUpon>RptControlHH_Indicador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptHHPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RptHHPeriodo.Designer.cs">
+      <DependentUpon>RptHHPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rpt_CuadrillaTareo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rpt_CuadrillaTareo.Designer.cs">
+      <DependentUpon>Rpt_CuadrillaTareo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rpt_EstadoDiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rpt_EstadoDiario.Designer.cs">
+      <DependentUpon>Rpt_EstadoDiario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rpt_HHTotales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rpt_HHTotales.Designer.cs">
+      <DependentUpon>Rpt_HHTotales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rpt_HistotialHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rpt_HistotialHH.Designer.cs">
+      <DependentUpon>Rpt_HistotialHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rpt_ManoObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rpt_ManoObra.Designer.cs">
+      <DependentUpon>Rpt_ManoObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rpt_TareoSemanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rpt_TareoSemanal.Designer.cs">
+      <DependentUpon>Rpt_TareoSemanal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RRHH\frmRegistroDescansoMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RRHH\frmRegistroDescansoMedico.Designer.cs">
+      <DependentUpon>frmRegistroDescansoMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RRHH\frmRegistroDescansoMedicoDni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RRHH\frmRegistroDescansoMedicoDni.Designer.cs">
+      <DependentUpon>frmRegistroDescansoMedicoDni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RRHH\frmReporteDescansoMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RRHH\frmReporteDescansoMedico.designer.cs">
+      <DependentUpon>frmReporteDescansoMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\SvTareo\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="TareoPersonal\frmDesmovilizacionTareo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareoPersonal\frmDesmovilizacionTareo.designer.cs">
+      <DependentUpon>frmDesmovilizacionTareo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TareoPersonal\frmDesmovilizarEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareoPersonal\frmDesmovilizarEmp.designer.cs">
+      <DependentUpon>frmDesmovilizarEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TareoPersonal\frmEstadoDiario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareoPersonal\frmEstadoDiario.Designer.cs">
+      <DependentUpon>frmEstadoDiario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TareoPersonal\frmMigrar_Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareoPersonal\frmMigrar_Empleados.Designer.cs">
+      <DependentUpon>frmMigrar_Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TareoPersonal\frmMovilizarEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareoPersonal\frmMovilizarEmp.designer.cs">
+      <DependentUpon>frmMovilizarEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TareoPersonal\frmMovilizarEmpTareo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareoPersonal\frmMovilizarEmpTareo.designer.cs">
+      <DependentUpon>frmMovilizarEmpTareo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TareoPersonal\frmTareo_Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TareoPersonal\frmTareo_Empleados.Designer.cs">
+      <DependentUpon>frmTareo_Empleados.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Fotocheck.resx">
+      <DependentUpon>Fotocheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FotoCheckId.resx">
+      <DependentUpon>FotoCheckId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FotoReportId.resx">
+      <DependentUpon>FotoReportId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FotoReportVarios.resx">
+      <DependentUpon>FotoReportVarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmActualizarJunta.resx">
+      <DependentUpon>frmActualizarJunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmActualizarTestPack.resx">
+      <DependentUpon>frmActualizarTestPack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsignacionPersonal.resx">
+      <DependentUpon>frmAsignacionPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsignarNuevoResponsable.resx">
+      <DependentUpon>frmAsignarNuevoResponsable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsignarResponsables.resx">
+      <DependentUpon>frmAsignarResponsables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsociarPersonal.resx">
+      <DependentUpon>frmAsociarPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAvanceConsolidado.resx">
+      <DependentUpon>frmAvanceConsolidado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAvances.resx">
+      <DependentUpon>frmAvances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAvancesObrero.resx">
+      <DependentUpon>frmAvancesObrero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarPersona.resx">
+      <DependentUpon>frmBuscarPersona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalendario.resx">
+      <DependentUpon>frmCalendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCambiarResponsables.resx">
+      <DependentUpon>frmCambiarResponsables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargaMasivaColumnas.resx">
+      <DependentUpon>frmCargaMasivaColumnas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClave.resx">
+      <DependentUpon>frmClave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControlTareo.resx">
+      <DependentUpon>frmControlTareo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControlTareoDigitacion.resx">
+      <DependentUpon>frmControlTareoDigitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControlTareoReporte.resx">
+      <DependentUpon>frmControlTareoReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControlTareoTodo.resx">
+      <DependentUpon>frmControlTareoTodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCronograma.resx">
+      <DependentUpon>frmCronograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCuadrilla.resx">
+      <DependentUpon>frmCuadrilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCuadrillaAsignar.resx">
+      <DependentUpon>frmCuadrillaAsignar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCuadrillaObrero.resx">
+      <DependentUpon>frmCuadrillaObrero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCuadrillaVarios.resx">
+      <DependentUpon>frmCuadrillaVarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiasTrabajo.resx">
+      <DependentUpon>frmDiasTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDigitacionPopup.resx">
+      <DependentUpon>frmDigitacionPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDigitacionTareo.resx">
+      <DependentUpon>frmDigitacionTareo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDisciplinaEstructura.resx">
+      <DependentUpon>frmDisciplinaEstructura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEfecto.resx">
+      <DependentUpon>frmEfecto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstadoDiario.resx">
+      <DependentUpon>FrmEstadoDiario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstructuraConsumo.resx">
+      <DependentUpon>frmEstructuraConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcesoHoras.resx">
+      <DependentUpon>frmExcesoHoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFeriados.resx">
+      <DependentUpon>frmFeriados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHHDiario.resx">
+      <DependentUpon>frmHHDiario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIndicadores.resx">
+      <DependentUpon>frmIndicadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLiberarResponsable.resx">
+      <DependentUpon>frmLiberarResponsable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListaCuentasControl.resx">
+      <DependentUpon>frmListaCuentasControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManPower.resx">
+      <DependentUpon>frmManPower.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManPowerCuadrilla.resx">
+      <DependentUpon>frmManPowerCuadrilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManPowerEspecialidad.resx">
+      <DependentUpon>frmManPowerEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMigracionTareo.resx">
+      <DependentUpon>frmMigracionTareo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarDocumentos.resx">
+      <DependentUpon>frmMostrarDocumentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonalSinTareo.resx">
+      <DependentUpon>frmPersonalSinTareo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProcesarTareo.resx">
+      <DependentUpon>frmProcesarTareo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProgramacion.resx">
+      <DependentUpon>frmProgramacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroDatosSoldadura.resx">
+      <DependentUpon>frmRegistroDatosSoldadura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroEnsayos.resx">
+      <DependentUpon>frmRegistroEnsayos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroJuntasSoldadas.resx">
+      <DependentUpon>frmRegistroJuntasSoldadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistroNuevaJunta.resx">
+      <DependentUpon>frmRegistroNuevaJunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReintegroMOD.resx">
+      <DependentUpon>frmReintegroMOD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteBaseEnsayosPendientes.resx">
+      <DependentUpon>frmReporteBaseEnsayosPendientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteEnsayosPendientes.resx">
+      <DependentUpon>frmReporteEnsayosPendientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteFormatoTRPruebasHidraulicas.resx">
+      <DependentUpon>frmReporteFormatoTRPruebasHidraulicas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteIV.resx">
+      <DependentUpon>frmReporteIV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportePaquetePruebas.resx">
+      <DependentUpon>frmReportePaquetePruebas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportesGenerador.resx">
+      <DependentUpon>frmReportesGenerador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteSoldaduras.resx">
+      <DependentUpon>frmReporteSoldaduras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTareas.resx">
+      <DependentUpon>frmTareas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTareoDiario.resx">
+      <DependentUpon>frmTareoDiario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTareoSemanal.resx">
+      <DependentUpon>frmTareoSemanal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmValidarJuntasNuevas.resx">
+      <DependentUpon>frmValidarJuntasNuevas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngenieroAvance.resx">
+      <DependentUpon>IngenieroAvance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logistica\AgregarPEP.resx">
+      <DependentUpon>AgregarPEP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logistica\RptSolped.resx">
+      <DependentUpon>RptSolped.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logistica\Solped.resx">
+      <DependentUpon>Solped.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaestroPersonal.resx">
+      <DependentUpon>MaestroPersonal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal.resx">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ProyectosRegistros.resx">
+      <DependentUpon>ProyectosRegistros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RptAvanceHHObrero.rdlc" />
+    <EmbeddedResource Include="Reportes\RptAvances - copia.rdlc" />
+    <EmbeddedResource Include="Reportes\RptAvances.rdlc" />
+    <EmbeddedResource Include="Reportes\rptConsolidadoHH.rdlc" />
+    <EmbeddedResource Include="Reportes\RptControlHH_indicador.rdlc" />
+    <EmbeddedResource Include="Reportes\RptCostoManoObra.rdlc" />
+    <EmbeddedResource Include="Reportes\RptEstadoDiario.rdlc" />
+    <EmbeddedResource Include="Reportes\RptFotocheckId.rdlc" />
+    <EmbeddedResource Include="Reportes\RptFotocheckVarios.rdlc" />
+    <EmbeddedResource Include="Reportes\RptHHPeriodo.rdlc" />
+    <EmbeddedResource Include="Reportes\RptHistorialHHPersonal.rdlc" />
+    <EmbeddedResource Include="Reportes\RptManPower.rdlc" />
+    <EmbeddedResource Include="Reportes\RptManPowerCuadrilla.rdlc" />
+    <EmbeddedResource Include="Reportes\RptManpowerEspecialidad.rdlc" />
+    <EmbeddedResource Include="Reportes\RptParteDiario.rdlc" />
+    <EmbeddedResource Include="Reportes\RptSolped.rdlc" />
+    <EmbeddedResource Include="Reportes\RptTareoDiarioCuadrilla.rdlc" />
+    <EmbeddedResource Include="Reportes\Rpt_HHTotal.rdlc" />
+    <EmbeddedResource Include="Reportes\Rpt_TareoCuadrilla.rdlc" />
+    <EmbeddedResource Include="Reportes\Rpt_TareoSemanal.rdlc" />
+    <EmbeddedResource Include="RptControlHH_Indicador.resx">
+      <DependentUpon>RptControlHH_Indicador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptHHPeriodo.resx">
+      <DependentUpon>RptHHPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rpt_CuadrillaTareo.resx">
+      <DependentUpon>Rpt_CuadrillaTareo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rpt_EstadoDiario.resx">
+      <DependentUpon>Rpt_EstadoDiario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rpt_HHTotales.resx">
+      <DependentUpon>Rpt_HHTotales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rpt_HistotialHH.resx">
+      <DependentUpon>Rpt_HistotialHH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rpt_ManoObra.resx">
+      <DependentUpon>Rpt_ManoObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rpt_TareoSemanal.resx">
+      <DependentUpon>Rpt_TareoSemanal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RRHH\frmRegistroDescansoMedico.resx">
+      <DependentUpon>frmRegistroDescansoMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RRHH\frmRegistroDescansoMedicoDni.resx">
+      <DependentUpon>frmRegistroDescansoMedicoDni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RRHH\frmReporteDescansoMedico.resx">
+      <DependentUpon>frmReporteDescansoMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareoPersonal\frmDesmovilizacionTareo.resx">
+      <DependentUpon>frmDesmovilizacionTareo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareoPersonal\frmDesmovilizarEmp.resx">
+      <DependentUpon>frmDesmovilizarEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareoPersonal\frmEstadoDiario.resx">
+      <DependentUpon>frmEstadoDiario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareoPersonal\frmMigrar_Empleados.resx">
+      <DependentUpon>frmMigrar_Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareoPersonal\frmMovilizarEmp.resx">
+      <DependentUpon>frmMovilizarEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareoPersonal\frmMovilizarEmpTareo.resx">
+      <DependentUpon>frmMovilizarEmpTareo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TareoPersonal\frmTareo_Empleados.resx">
+      <DependentUpon>frmTareo_Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet\DsLogistica.xsc">
+      <DependentUpon>DsLogistica.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DsLogistica.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsLogistica.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DsLogistica.xss">
+      <DependentUpon>DsLogistica.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DsRRHH.xsc">
+      <DependentUpon>DsRRHH.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DsRRHH.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsRRHH.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DsRRHH.xss">
+      <DependentUpon>DsRRHH.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DsSISPLAN.xsc">
+      <DependentUpon>DsSISPLAN.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DsSISPLAN.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsSISPLAN.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DsSISPLAN.xss">
+      <DependentUpon>DsSISPLAN.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DsTareo.xsc">
+      <DependentUpon>DsTareo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DsTareo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsTareo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DsTareo.xss">
+      <DependentUpon>DsTareo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DsTareoReporte.xsc">
+      <DependentUpon>DsTareoReporte.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DsTareoReporte.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsTareoReporte.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DsTareoReporte.xss">
+      <DependentUpon>DsTareoReporte.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\System.Data.DataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\SvTareo\Tareo.wsdl" />
+    <None Include="Service References\SvTareo\Tareo.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SvTareo\Tareo1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SvTareo\Tareo2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SvTareo\Tareo3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.BE_PERSONAL_GESTOR.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.Get_Estado_PeridoTareo_SKExResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.Get_Estado_PeridoTareo_SSKResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.Get_PersonalGestorDNIResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.Get_PersonalGestorDNI_SKEXResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.Get_PersonalGestorResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.Get_PersonalGestorSKEXResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.Insertar_ASIGNACION_TAREOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.Insertar_ASISTENCIAResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.Insertar_TAREOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.LIMPIAR_MIGRACION_GESTORResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.ListarPersonalGestorResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.ProbarConexionGestorResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.ProbarConexionTareoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.TAREO_LIMPIAR_MIGRACIONResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SvTareo\WinForms.SvTareo.UploadFileResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\Aletar.gif" />
+    <Content Include="Imagenes\boton.aceptar.gif" />
+    <Content Include="Imagenes\boton.actualizar.gif" />
+    <Content Include="Imagenes\boton.agregar.gif" />
+    <Content Include="Imagenes\boton.AgregarPersonal.jpg" />
+    <Content Include="Imagenes\boton.archivo.gif" />
+    <Content Include="Imagenes\boton.buscar.gif" />
+    <Content Include="Imagenes\boton.cancelar.gif" />
+    <Content Include="Imagenes\boton.CostoVenta.jpg" />
+    <Content Include="Imagenes\boton.crear_tabla.gif" />
+    <Content Include="Imagenes\menu-05.jpg" />
+    <Content Include="Imagenes\sigdo-koppers.png" />
+    <Content Include="Imagenes\sigdo-koppers150x80.jpg" />
+    <Content Include="Imagenes\sigdo-koppersV2.png" />
+    <Content Include="Imagenes\SSK_200.png" />
+    <Content Include="Imagenes\Trabajando.ico" />
+    <None Include="Service References\SvTareo\Tareo.disco" />
+    <None Include="Service References\SvTareo\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\SvTareo\configuration.svcinfo" />
+    <None Include="Service References\SvTareo\configuration91.svcinfo" />
+    <None Include="Imagenes\boton.cronograma.jpg" />
+    <Content Include="Imagenes\boton.ejemplo.jpg" />
+    <Content Include="Imagenes\boton.eliminar.gif" />
+    <Content Include="Imagenes\boton.eliminarMigracion.jpg" />
+    <Content Include="Imagenes\boton.enviar.gif" />
+    <Content Include="Imagenes\boton.enviarFile.jpg" />
+    <Content Include="Imagenes\boton.EstadoDiario.jpg" />
+    <Content Include="Imagenes\boton.EstadoDiarioLeyenda.jpg" />
+    <Content Include="Imagenes\boton.Excel.jpg" />
+    <Content Include="Imagenes\boton.Generar.jpg" />
+    <Content Include="Imagenes\boton.guardar.gif" />
+    <Content Include="Imagenes\boton.imprimir.gif" />
+    <Content Include="Imagenes\boton.limpiar.gif" />
+    <Content Include="Imagenes\boton.Nuevo.jpg" />
+    <Content Include="Imagenes\boton.recibir.gif" />
+    <Content Include="Imagenes\boton.regresar.gif" />
+    <Content Include="Imagenes\boton.Resumen.jpg" />
+    <Content Include="Imagenes\botonAbrirTareo.jpg" />
+    <Content Include="Imagenes\botonAsignarResponsable.jpg" />
+    <Content Include="Imagenes\botonCerrarTareo.jpg" />
+    <Content Include="Imagenes\botonEmpleados.jpg" />
+    <Content Include="Imagenes\botonIndicadores.jpg" />
+    <Content Include="Imagenes\botonLiberar.jpg" />
+    <Content Include="Imagenes\botonListarTodo.jpg" />
+    <Content Include="Imagenes\botonMigrar.jpg" />
+    <Content Include="Imagenes\botonObreros.jpg" />
+    <Content Include="Imagenes\botonResponsable.jpg" />
+    <Content Include="Imagenes\botonSinTareo.jpg" />
+    <Content Include="Imagenes\botonTareas.jpg" />
+    <Content Include="Imagenes\botonTareasGIF.gif" />
+    <Content Include="Imagenes\botonTareasLista.jpg" />
+    <Content Include="Imagenes\botonTareo.jpg" />
+    <Content Include="Imagenes\botonTareoGIF.gif" />
+    <Content Include="Imagenes\botonTXT.jpg" />
+    <Content Include="Imagenes\check.png" />
+    <Content Include="Imagenes\Delete.png" />
+    <Content Include="Imagenes\favicon.ico" />
+    <Content Include="Imagenes\Login.png" />
+    <Content Include="Imagenes\MensajeUpdate.gif" />
+    <Content Include="Imagenes\menu-03.jpg" />
+    <Content Include="Imagenes\menu-04.jpg" />
+    <Content Include="Imagenes\SSK_LOGO.jpg" />
+    <Content Include="Imagenes\SSK_NEW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessEntity\BusinessEntity.csproj">
+      <Project>{99521d42-012b-4be0-a6c1-9b5bf03284ba}</Project>
+      <Name>BusinessEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+      <Project>{61c5c143-a59e-4c72-b827-363fe97c8cfa}</Project>
+      <Name>BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserCode\UserCode.csproj">
+      <Project>{1d60f7c1-3967-46d7-a831-ab7a28e15f9a}</Project>
+      <Name>UserCode</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\SvTareo\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
